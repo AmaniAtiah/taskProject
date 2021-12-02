@@ -22,6 +22,7 @@
 		E34B58D72753D2D800373F30 /* TodoDetailsVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = E34B58D62753D2D800373F30 /* TodoDetailsVC.swift */; };
 		E35142D52757BCB90019C124 /* Math.swift in Sources */ = {isa = PBXBuildFile; fileRef = E35142D42757BCB90019C124 /* Math.swift */; };
 		E35142D82757C6540019C124 /* TodosModel.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = E35142D62757C6540019C124 /* TodosModel.xcdatamodeld */; };
+		E381E608275954CB006DA3B3 /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = E381E607275954CB006DA3B3 /* User.swift */; };
 		E3AE320D27552631003474F9 /* NewTodoVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3AE320C27552631003474F9 /* NewTodoVC.swift */; };
 /* End PBXBuildFile section */
 
@@ -62,6 +63,7 @@
 		E34B58D62753D2D800373F30 /* TodoDetailsVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TodoDetailsVC.swift; sourceTree = "<group>"; };
 		E35142D42757BCB90019C124 /* Math.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Math.swift; sourceTree = "<group>"; };
 		E35142D72757C6540019C124 /* TodosModel.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = TodosModel.xcdatamodel; sourceTree = "<group>"; };
+		E381E607275954CB006DA3B3 /* User.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
 		E3AE320C27552631003474F9 /* NewTodoVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewTodoVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -127,6 +129,7 @@
 				E3AE320C27552631003474F9 /* NewTodoVC.swift */,
 				E35142D42757BCB90019C124 /* Math.swift */,
 				E35142D62757C6540019C124 /* TodosModel.xcdatamodeld */,
+				E381E607275954CB006DA3B3 /* User.swift */,
 			);
 			path = Week5Lesson1;
 			sourceTree = "<group>";
@@ -289,6 +292,7 @@
 				E34B58D12753BAF800373F30 /* TodosVC.swift in Sources */,
 				E34B58D32753C28A00373F30 /* TodoCell.swift in Sources */,
 				E34B58A32753B9DE00373F30 /* SceneDelegate.swift in Sources */,
+				E381E608275954CB006DA3B3 /* User.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
